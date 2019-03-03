@@ -1,0 +1,54 @@
+body {
+  background-color: Orange;
+  font-family: "Georgia", serif;
+}
+
+#div1 {
+  text-align:center;
+}
+
+#div2 {
+  float:left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#div3 {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-size: 30px;
+}
+
+#div4 {
+  float:right;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+
+#table {
+  width:600px;
+  height:150px;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 10px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
